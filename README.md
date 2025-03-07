@@ -1,4 +1,4 @@
-cat <<EOL > README.md
+
 # Role Master Project
 
 ## Overview
