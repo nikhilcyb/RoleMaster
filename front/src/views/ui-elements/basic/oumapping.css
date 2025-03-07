@@ -1,0 +1,22 @@
+.auth-wrapper {
+    padding: 20px;
+    background-color: #f9f9f9;
+  }
+  
+  .table-container {
+    margin-top: 20px;
+  }
+  
+  .custom-table th {
+    background-color: #007bff;
+    color: white;
+    text-align: center;
+  }
+  
+  .custom-table tbody tr:hover {
+    background-color: #f1f1f1;
+  }
+  
+  .btn {
+    margin-right: 10px;
+  }

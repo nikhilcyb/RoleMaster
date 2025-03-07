@@ -1,0 +1,30 @@
+.basic-user-container {
+    padding: 20px;
+    font-family: 'Arial', sans-serif;
+    background-color: #f9f9f9;
+  }
+  
+  .table-container {
+    margin-top: 20px;
+    overflow-x: auto;
+  }
+  
+  .custom-table th {
+    background-color: #007bff;
+    color: white;
+    text-align: center;
+  }
+  
+  .custom-table tbody tr:hover {
+    background-color: #f1f1f1;
+    cursor: pointer;
+  }
+  
+  .action-button {
+    transition: all 0.3s ease;
+  }
+  
+  .action-button:hover {
+    transform: scale(1.1);
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
+  }
